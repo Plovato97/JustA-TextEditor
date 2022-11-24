@@ -38,7 +38,7 @@ Node.js, Express.js, IndexedDB, PWA, Heroku
 
 ## Deployed Link
 
-
+https://justatxt.herokuapp.com/
 
 ## Questions
 
